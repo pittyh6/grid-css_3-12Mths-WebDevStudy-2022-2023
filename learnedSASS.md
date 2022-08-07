@@ -8,10 +8,7 @@
 ## What I learned/used 
 ### SASS 
 * SASS Stylesheets  
-    * intall plugin
-        * Live Sass Compiler
-    * create sass file and generate the css file from the sass
-        * watch sass btn vscode
+    * 
     
    
 

@@ -8,14 +8,14 @@
 * Online courses, challenges and creation of my own projects.
 
 ## What I learned/used (Link for details)
-<!-- 
-* Projects [link](https://github.com/pittyh6/3-Easybank-Challenge_12Mths-WebDevStudy-2022-2023/tree/master/docs)
-* Resources [link](https://github.com/pittyh6/3-Easybank-Challenge_12Mths-WebDevStudy-2022-2023/blob/master/learnedResources.md)
-* CSS [link](https://github.com/pittyh6/Easybank-Challenge_3-12Mths-WebDevStudy-2022-2023/blob/master/learnedCSS.md)
 
-* HTML [link](https://github.com/pittyh6/3-Easybank-Challenge_12Mths-WebDevStudy-2022-2023/blob/master/learnedHTML.md)
-* JavaScript [link](https://github.com/pittyh6/3-Easybank-Challenge_12Mths-WebDevStudy-2022-2023/blob/master/learnedJAVASCRIPT.md)
-* SASS [link](https://github.com/pittyh6/3-Easybank-Challenge_12Mths-WebDevStudy-2022-2023/blob/master/learnedSASS.md)
+* Projects [link](https://github.com/pittyh6/grid-css_3-12Mths-WebDevStudy-2022-2023)
+<!-- 
+* Resources [link](https://github.com/pittyh6/grid-css_3-12Mths-WebDevStudy-2022-2023/blob/master/learnedResources.md)
+* CSS [link](https://github.com/pittyh6/grid-css_3-12Mths-WebDevStudy-2022-2023/blob/master/learnedCSS.md)
+* HTML [link](https://github.com/pittyh6/grid-css_3-12Mths-WebDevStudy-2022-2023/blob/master/learnedHTML.md)
+* JavaScript [link](https://github.com/pittyh6/grid-css_3-12Mths-WebDevStudy-2022-2023/blob/master/learnedJAVASCRIPT.md)
+* SASS [link](https://github.com/pittyh6/grid-css_3-12Mths-WebDevStudy-2022-2023/blob/master/learnedSASS.md)
 -->
 
 ## Project + Result
@@ -36,7 +36,7 @@
 
 
 ## Management Tools
-* Jira(Sprints) [link](https://github.com/pittyh6/3-Easybank-Challenge_12Mths-WebDevStudy-2022-2023/tree/master/Sprint)
+* Jira(Sprints) [link](https://github.com/pittyh6/grid-css_3-12Mths-WebDevStudy-2022-2023/tree/master/Sprint)
 
 ## Tools
 <img src= Documentation/jira.png  height="90" width="100" ><img src= Documentation/vscode.png  height="90" width="100"><img src= Documentation/html.png  height="90" width="90"><img src= Documentation/css.png  height="90" width="90"><img src= Documentation/photoshop.png  height="90" width="100"><img src= Documentation/js.png  height="90" width="100"><img src= Documentation/jquery.png  height="90" width="100">
