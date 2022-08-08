@@ -10,10 +10,10 @@
 ## What I learned/used (Link for details)
 
 * Projects [link](https://github.com/pittyh6/grid-css_3-12Mths-WebDevStudy-2022-2023)
-<!-- 
-* Resources [link](https://github.com/pittyh6/grid-css_3-12Mths-WebDevStudy-2022-2023/blob/master/learnedResources.md)
 * CSS [link](https://github.com/pittyh6/grid-css_3-12Mths-WebDevStudy-2022-2023/blob/master/learnedCSS.md)
 * HTML [link](https://github.com/pittyh6/grid-css_3-12Mths-WebDevStudy-2022-2023/blob/master/learnedHTML.md)
+<!-- 
+* Resources [link](https://github.com/pittyh6/grid-css_3-12Mths-WebDevStudy-2022-2023/blob/master/learnedResources.md)
 * JavaScript [link](https://github.com/pittyh6/grid-css_3-12Mths-WebDevStudy-2022-2023/blob/master/learnedJAVASCRIPT.md)
 * SASS [link](https://github.com/pittyh6/grid-css_3-12Mths-WebDevStudy-2022-2023/blob/master/learnedSASS.md)
 -->
