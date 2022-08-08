@@ -18,12 +18,12 @@
 * SASS [link](https://github.com/pittyh6/grid-css_3-12Mths-WebDevStudy-2022-2023/blob/master/learnedSASS.md)
 -->
 
-## Project + Result
+<!-- ## Project + Result
 * Desktop
 ![Begin Banner](/Documentation/desktop-result.gif)
 
 * Mobile
-![Begin Banner](/Documentation/mobile-result.gif)
+![Begin Banner](/Documentation/mobile-result.gif) -->
 
 
 ## Previous Projects

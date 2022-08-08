@@ -11,5 +11,5 @@
 
 ## What I have done
 ![Begin Banner](fullSprint.png)
-![Begin Banner](burnup.png)
+<!-- ![Begin Banner](burnup.png) -->
 
