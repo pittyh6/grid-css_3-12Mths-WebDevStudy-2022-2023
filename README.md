@@ -1,6 +1,6 @@
 # Web Developer Study
 ## 12 months web developer study. I decided to dedicate at least 12 months to learn web development.
-## Challenge HTML, CSS and  JavaScript by frontendMentor 
+## CSS Grid - Tutorial
 
 ![Begin Banner](/Documentation/top-1200x350.gif)
 
